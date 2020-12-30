@@ -25,7 +25,7 @@ puck_velx = 0
 puck_vely = 0
 puck_x = 300
 puck_y = 200
-puck_vel = 50
+puck_vel = 20
 puck_r = 10
 
 WHITE = (255,255,255)
