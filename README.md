@@ -5,6 +5,7 @@ My first real game made with python & pygame.
 Requires PyGame.
 
 ##PyGame Installation
+
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install PyGame
 
 ```bash
